@@ -1,9 +1,9 @@
 <h1 align="center">¡Hola! 👋 Soy Sebastián</h1>
 <h3 align="center">Un Desarrollador Junior Apasionado por el Frontend💻</h3>
 
-- 💬 Ask me about **React, Vue, JavaScript, HTML, CSS**
+- 💬 Tengo conocimiento en **React, Vue, JavaScript, HTML, CSS**
 
-- 📫 How to reach me **sebastianmunoz603@gmail.com**
+- 📫 Contactate conmigo! **sebastianmunoz603@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
