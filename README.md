@@ -1,5 +1,5 @@
 <h1 align="center">¡Hola! 👋 Soy Sebastián Muñoz</h1>
-<h3 align="center">Desarrollador Frontend con pasión por el diseño web y la experiencia de usuario</h3>
+<h3 align="center">Desarrollador Frontend apasionado por crear experiencias web modernas, funcionales y atractivas</h3>
 
 <p align="center">
 🌍 San Gil, Santander &nbsp;&nbsp;|&nbsp;&nbsp;📧 sebastianmunoz603@gmail.com &nbsp;&nbsp;|&nbsp;&nbsp;💼 <a href="https://portfolio-plxyz08s-projects.vercel.app/">Portafolio</a>
@@ -9,49 +9,83 @@
 
 ### 🚀 Sobre mí
 
-Soy un desarrollador frontend con 2 años de experiencia en diseño web, especializado en React, Vue y herramientas modernas del ecosistema JavaScript. Me caracterizo por ser creativo, resolutivo y tener una fuerte orientación al detalle y la experiencia de usuario.
+Soy un desarrollador FullStack con más de 3 años de experiencia y formación en diseño web y desarrollo de software. Tengo conocimiento en distintas tecnologías lo que me ha permitido ser parte del desarrollo exitoso de proyectos, tanto personales como empresariales. Además, cuento con una mentalidad creativa y una gran capacidad para la resolución de problemas, lo que me permite encontrar soluciones efectivas para los proyectos en los que trabajo, también me desarrollo muy bien en el trabajo en equipo y me destaco por mi buena comunicación.
 
-- 🎨 Diseño interfaces funcionales y atractivas
-- 🧩 Me adapto fácilmente a equipos ágiles y colaborativos
-- 🧠 Siempre en constante aprendizaje y evolución profesional
-- 🤝 Me destaco por mi comunicación efectiva y trabajo en equipo
-
----
-
-### 💼 Portafolio
-
-Visita mi sitio para ver algunos de los proyectos en los que he trabajado, desde aplicaciones personales hasta soluciones empresariales:
-
-👉 [PORTFOLIO](https://portfolio-plxyz08s-projects.vercel.app/)
+- 🧠 Curioso y autodidacta: siempre aprendiendo nuevas herramientas y tecnologías
+- 👨‍💻 Experiencia en proyectos personales y empresariales
+- 🧩 Trabajo fluido en equipo bajo metodologías ágiles como Scrum
+- 🎯 Atención al detalle, rendimiento y experiencia de usuario
+- 🗣️ Comunicación efectiva y proactividad en la resolución de problemas
 
 ---
 
 ### 🛠️ Tecnologías y herramientas
 
-#### Lenguajes y Frameworks
+#### 💻 Lenguajes de programación
+
 <p>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="Vue" width="40" />
-  <img src="https://cdn.quasar.dev/logo/svg/quasar-logo.svg" alt="Quasar" width="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="Express" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40" />
 </p>
 
-#### Bases de datos y APIs
+#### ⚛️ Frameworks y Librerías Frontend
+
 <p>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" />
-  <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original-wordmark.svg" width="40" />
+  <img src="https://cdn.quasar.dev/logo/svg/quasar-logo.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg" width="40" />
 </p>
 
-#### Diseño y Estilos
+#### 🎨 Estilos y UI/UX
+
 <p>
-  <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" width="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="Sass" width="40" />
-  <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="Tailwind CSS" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" width="40" />
+  <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="40" />
+  <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" width="40" />
+</p>
+
+#### 🧩 Frameworks Backend & Fullstack
+
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original-wordmark.svg" width="40" />
+</p>
+
+#### 🗃️ Bases de datos y ORMs
+
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" />
+</p>
+
+#### 🔍 Testing y Calidad
+
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" width="40" />
+  <img src="https://testing-library.com/img/octopus-64x64.png" width="40" title="React Testing Library" />
+</p>
+
+#### 📦 Herramientas de desarrollo
+
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" width="40" />
+  <img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vite/vite-original.svg" width="40" />
+</p>
+
+#### 🔧 DevOps & Otras herramientas
+
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vercel/vercel-original.svg" width="40" />
 </p>
 
 ---
@@ -67,4 +101,4 @@ Visita mi sitio para ver algunos de los proyectos en los que he trabajado, desde
 
 ---
 
-✨ *Gracias por visitar mi perfil. ¡Estoy abierto a nuevas oportunidades, colaboraciones y proyectos interesantes!*
+✨ *Gracias por visitar mi perfil ❤️. ¡Estoy abierto a nuevas oportunidades, colaboraciones y proyectos interesantes!*
