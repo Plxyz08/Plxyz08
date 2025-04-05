@@ -1,5 +1,5 @@
 <h1 align="center">¡Hola! 👋 Soy Sebastián Muñoz</h1>
-<h3 align="center">Desarrollador Frontend apasionado por crear experiencias web modernas, funcionales y atractivas</h3>
+<h3 align="center">Desarrollador Fullstack especializado en construir soluciones web completas con interfaces intuitivas y backends robustos</h3>
 
 <p align="center">
 🌍 San Gil, Santander &nbsp;&nbsp;|&nbsp;&nbsp;📧 sebastianmunoz603@gmail.com &nbsp;&nbsp;|&nbsp;&nbsp;💼 <a href="https://portfolio-plxyz08s-projects.vercel.app/">Portafolio</a>
