@@ -7,7 +7,7 @@
 
 ## 💼 Mi Portafolio
 
-Visita mi portafolio en [mi sitio web](https://portafolio-plxyz08s-projects.vercel.app/) para conocer más sobre mis proyectos y habilidades.
+Visita mi portafolio en [mi sitio web](https://portfolio-plxyz08s-projects.vercel.app/) para conocer más sobre mis proyectos y habilidades.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
